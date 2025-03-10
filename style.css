@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+header {
+    background-color: black;
+    color: white;
+    padding: 10px 0;
+}
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.banner {
+    background: lightgray;
+    padding: 50px 0;
+}
+.products {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+.product img {
+    width: 150px;
+    height: auto;
+    border-radius: 10px;
+}
+footer {
+    background: black;
+    color: white;
+    padding: 10px 0;
+    margin-top: 20px;
+}

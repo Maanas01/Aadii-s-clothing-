@@ -1,2 +1,2 @@
 # Aadii-s-clothing-
-It's a great clothing brand 
+"Aadii's Clothing - A trendy fashion store featuring stylish collections."
